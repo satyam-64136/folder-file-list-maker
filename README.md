@@ -39,4 +39,5 @@ This project demonstrates the functionality of the app. Here's a screenshot of t
 
 # 📝 License
 This project is licensed under the MIT License.
+DM me to get the python code file.
 
