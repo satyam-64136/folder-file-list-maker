@@ -31,8 +31,12 @@ This project demonstrates the functionality of the app. Here's a screenshot of t
 
 ![App Demo Screenshot](Demo.png)
 
+# Download Link for .exe File
+
+[**CLICK HERE**](https://www.mediafire.com/file/mxq32seydofamad/name_finder.exe/file)
 
 # Creator Information
+
 
 📌 **Creator:** Satyam    
 🌐 **Follow me:** [Here](https://tinyurl.com/hero-hu)
