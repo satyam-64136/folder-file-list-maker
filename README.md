@@ -35,7 +35,7 @@ This project demonstrates the functionality of the app. Here's a screenshot of t
 # Creator Information
 
 📌 **Creator:** Satyam    
-🌐 **Website:** [SOCIALS](https://tinyurl.com/hero-hu)
+🌐 **Follow me:** [Here](https://tinyurl.com/hero-hu)
 
 # 📝 License
 This project is licensed under the MIT License.
