@@ -30,9 +30,8 @@ This app scans a user-specified directory and lists **all files** inside it, exc
    python name_finder.py
 # Creator Information
 
-📌 **Creator:** Satyam  
-🔗 **GitHub:** [yourgithub]([https://github.com/yourgithub](https://github.com/satyam-64136))  
-🌐 **Website:** [tinyurl.com/hero-hu](https://tinyurl.com/hero-hu)
+📌 **Creator:** Satyam    
+🌐 **Website:** [SOCIALS](https://tinyurl.com/hero-hu)
 
 # 📝 License
 This project is licensed under the MIT License.
