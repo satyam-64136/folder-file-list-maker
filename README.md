@@ -28,6 +28,14 @@ This app scans a user-specified directory and lists **all files** inside it, exc
 2. **Run the App**
     ```sh
    python name_finder.py
+
+# Project Title
+
+This project demonstrates the functionality of the app. Here's a screenshot of the app in action:
+
+![App Demo Screenshot](image.png)
+
+
 # Creator Information
 
 📌 **Creator:** Satyam    
