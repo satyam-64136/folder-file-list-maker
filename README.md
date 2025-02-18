@@ -3,6 +3,12 @@ _A simple and efficient command-line file explorer._
 
 ![FileSentry](https://img.shields.io/badge/Version-1.0-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)  
 
+
+# Download Link for .exe File
+
+[**CLICK HERE**](https://www.mediafire.com/file/mxq32seydofamad/name_finder.exe/file)
+
+
 ## 📌 Features  
 ✅ **Lists all files in a directory** 📂  
 ✅ **Automatically excludes itself from the list** 🚫  
@@ -30,10 +36,6 @@ This app scans a user-specified directory and lists **all files** inside it, exc
 This project demonstrates the functionality of the app. Here's a screenshot of the app in action:
 
 ![App Demo Screenshot](Demo.png)
-
-# Download Link for .exe File
-
-[**CLICK HERE**](https://www.mediafire.com/file/mxq32seydofamad/name_finder.exe/file)
 
 # Creator Information
 
